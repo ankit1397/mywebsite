@@ -1,0 +1,78 @@
+    .class4 {
+        padding: 20px;
+    }
+    
+    #navbarSupportedContent a {
+        color: white;
+    }
+    
+    .email-logo {
+        color: rgb(255, 110, 27);
+    }
+    
+    .call-logo {
+        color: rgb(255, 110, 27);
+    }
+    
+    .navbar-dark .navbar-nav .nav-link.hom {
+        color: rgb(255, 110, 27);
+    }
+    
+    .navbar-dark .navbar-nav .nav-link.navitems {
+        color: white;
+    }
+    
+    .srchIcon {
+        color: floralwhite;
+    }
+    
+    .btn-apply {
+        background-color: rgb(255, 110, 27);
+        padding: 0.8em;
+        color: white;
+        border: solid rgb(238, 102, 24) 0px;
+        /* margin-right: 20%; */
+        min-width: 150px;
+    }
+    
+    .tiles {
+        color: white;
+        text-align: center;
+    }
+    
+    .tile1 {
+        background-color: #fa6407;
+        padding: 50px;
+    }
+    
+    .tile2 {
+        background-color: #1a1817;
+        padding: 50px;
+    }
+    
+    .WhatWeOffer {
+        width: 50%;
+        margin: 0 auto;
+    }
+    
+    .list {
+        width: 60%;
+    }
+    
+    .circle {
+        background-color: tomato;
+        height: 50px;
+        width: 50px;
+        border-radius: 50px;
+    }
+    
+    .blwFourIcon {
+        height: 30px;
+        width: 30px;
+        margin: 10px;
+    }
+    
+    .searchbox {
+        background: none;
+        border: none;
+    }
